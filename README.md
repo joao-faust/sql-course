@@ -1,4 +1,4 @@
-# CURSO DE SQL
+# SQL COURSE
 
 ## STUDENT
 João Victor Soares Faust
